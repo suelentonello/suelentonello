@@ -9,3 +9,5 @@
 - 🎲 Brincando com Dados
 - 🐍 Python
 - ☎️ VOIP
+
+![Snake animation](https://github.com/suelentonello/suelentonello/blob/output/github-contribution-grid-snake.svg)
