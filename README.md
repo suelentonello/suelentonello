@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/suelentonello">
   <center>
-    <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api?username=suelentonello&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="160em" width="41%" src="https://github-readme-stats.vercel.app/api?username=suelentonello&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
     <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suelentonello&layout=compact&langs_count=7&theme=radical"/> 
